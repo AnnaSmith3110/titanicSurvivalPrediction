@@ -3,5 +3,3 @@ folium
 streamlit_folium
 scikit-learn
 google-colab
-pandas>=0.18
-
